@@ -1,4 +1,3 @@
-
 :root{
     --branco: white;
     --cor-de-fundo: #00162E;
@@ -144,7 +143,7 @@ label{
     background-color: #00ff85;
 }
 
-.parametro-senha__texto{
+.parametro-senha-textos{
     display: flex;
     justify-content: space-between;
 }
@@ -153,5 +152,4 @@ label{
     .parametro-coluna__senha{
         flex-direction: row;
     }
-    
 }
